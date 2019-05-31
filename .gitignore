@@ -1,0 +1,8 @@
+.idea
+.cache
+.pytest_cache
+__pycache__
+cmake-build-*
+solutions
+*.swp
+*.tmp
